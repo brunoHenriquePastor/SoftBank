@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/range/OneDrive/Documentos/NetBeansProjects/Banco/src/banco/view/FXMLDepositoCC.fxml</file>
+            <file>file:/C:/Users/range/OneDrive/Documentos/NetBeansProjects/Banco/src/banco/controller/FXMLDepositoCCController.java</file>
+            <file>file:/C:/Users/range/OneDrive/Documentos/NetBeansProjects/Banco/src/banco/controller/FXMLLoginController.java</file>
+            <file>file:/C:/Users/range/OneDrive/Documentos/NetBeansProjects/Banco/src/banco/view/FXMLDepositoCP.fxml</file>
+            <file>file:/C:/Users/range/OneDrive/Documentos/NetBeansProjects/Banco/src/banco/controller/FXMLCadastroController.java</file>
+            <file>file:/C:/Users/range/OneDrive/Documentos/NetBeansProjects/Banco/src/banco/controller/FXMLDepositoCPController.java</file>
+            <file>file:/C:/Users/range/OneDrive/Documentos/NetBeansProjects/Banco/src/banco/model/Singleton.java</file>
+            <file>file:/C:/Users/range/OneDrive/Documentos/NetBeansProjects/Banco/src/banco/view/FXMLGerenciaConta.fxml</file>
+            <file>file:/C:/Users/range/OneDrive/Documentos/NetBeansProjects/Banco/src/banco/model/Serviço.java</file>
+            <file>file:/C:/Users/range/OneDrive/Documentos/NetBeansProjects/Banco/src/banco/view/FXMLLogin.fxml</file>
+            <file>file:/C:/Users/range/OneDrive/Documentos/NetBeansProjects/Banco/src/banco/controller/FXMLDepositoController.java</file>
+            <file>file:/C:/Users/range/OneDrive/Documentos/NetBeansProjects/Banco/src/banco/model/Conta.java</file>
+            <file>file:/C:/Users/range/OneDrive/Documentos/NetBeansProjects/Banco/src/banco/controller/FXMLTelaInicialController.java</file>
+            <file>file:/C:/Users/range/OneDrive/Documentos/NetBeansProjects/Banco/src/banco/model/Usuario.java</file>
+            <file>file:/C:/Users/range/OneDrive/Documentos/NetBeansProjects/Banco/src/banco/view/FXMLCadastro.fxml</file>
+            <file>file:/C:/Users/range/OneDrive/Documentos/NetBeansProjects/Banco/src/banco/controller/FXMLGerenciaContaController.java</file>
+            <file>file:/C:/Users/range/OneDrive/Documentos/NetBeansProjects/Banco/src/banco/model/Endereço.java</file>
+            <file>file:/C:/Users/range/OneDrive/Documentos/NetBeansProjects/Banco/src/banco/Banco.java</file>
+        </group>
+    </open-files>
+</project-private>

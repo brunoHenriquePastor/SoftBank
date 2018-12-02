@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane id="AnchorPane" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="banco.controller.FXMLSaque1Controller">
+   <children>
+      <Button fx:id="btn_saqueCC" layoutX="70.0" layoutY="85.0" mnemonicParsing="false" onAction="#saqueCC" prefHeight="60.0" prefWidth="170.0" text="Conta Corrente">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Button>
+      <Button fx:id="btn_saqueCP" layoutX="370.0" layoutY="85.0" mnemonicParsing="false" onAction="#saqueCP" prefHeight="60.0" prefWidth="170.0" text="Conta Poupança">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Button>
+      <Button fx:id="btn_saque_voltar" layoutX="70.0" layoutY="290.0" mnemonicParsing="false" onAction="#voltar" prefHeight="60.0" prefWidth="170.0" text="Cancelar">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Button>
+   </children>
+</AnchorPane>

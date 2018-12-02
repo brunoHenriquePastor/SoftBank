@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane id="AnchorPane" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="banco.controller.FXMLGerenciaContaController">
+   <children>
+      <Button fx:id="btn_ger_saque" layoutX="50.0" layoutY="40.0" mnemonicParsing="false" onAction="#sacar" prefHeight="60.0" prefWidth="200.0" text="Saque">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Button>
+      <Button fx:id="btn_ger_transferencia" layoutX="50.0" layoutY="150.0" mnemonicParsing="false" onAction="#tranferencia" prefHeight="60.0" prefWidth="200.0" text="Transferência" />
+      <Button fx:id="btn_ger_extrato" layoutX="50.0" layoutY="260.0" mnemonicParsing="false" onAction="#extrato" prefHeight="60.0" prefWidth="200.0" text="Extrato" />
+      <Button fx:id="btn_ger_deposito" layoutX="350.0" layoutY="40.0" mnemonicParsing="false" onAction="#deposito" prefHeight="60.0" prefWidth="200.0" text="Depósito" />
+      <Button fx:id="btn_ger_saldo" layoutX="350.0" layoutY="150.0" mnemonicParsing="false" onAction="#saldo" prefHeight="60.0" prefWidth="200.0" text="Saldo" />
+      <Button fx:id="btn_ger_encerrar" layoutX="350.0" layoutY="260.0" mnemonicParsing="false" onAction="#encerrar" prefHeight="60.0" prefWidth="200.0" text="Encerrar" />
+   </children>
+</AnchorPane>

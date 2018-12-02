@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane id="AnchorPane" prefHeight="400.0" prefWidth="600.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/8.0.171" fx:controller="banco.controller.FXMLTransferenciaCPController">
+   <children>
+      <Label fx:id="lable_transferenciaCP_conta" layoutX="172.0" layoutY="124.0" prefHeight="20.0" prefWidth="100.0" text="Conta:" />
+      <Label fx:id="lable_transferenciaCP_agencia" layoutX="172.0" layoutY="169.0" prefHeight="20.0" prefWidth="100.0" text="Agência:" />
+      <Label fx:id="lable_transferenciaCP_variação" layoutX="172.0" layoutY="214.0" prefHeight="20.0" prefWidth="100.0" text="Variação:" />
+      <Label fx:id="lable_transferenciaCP_valor" layoutX="172.0" layoutY="259.0" prefHeight="20.0" prefWidth="100.0" text="Valor:" />
+      <TextField fx:id="textField_contac_cp" layoutX="272.0" layoutY="120.0" prefWidth="150.0" />
+      <TextField fx:id="textField_agencia_cp" layoutX="272.0" layoutY="165.0" prefWidth="150.0" />
+      <TextField fx:id="textField_variacao_cp" layoutX="272.0" layoutY="210.0" prefWidth="150.0" />
+      <TextField fx:id="textField_valor_cp" layoutX="272.0" layoutY="255.0" prefWidth="150.0" />
+      <Button fx:id="btn_transferenciaCP_confirmar" layoutX="297.0" layoutY="320.0" mnemonicParsing="false" onAction="#confirmar_transferenica_cp" prefHeight="25.0" prefWidth="100.0" text="Confirmar" />
+      <Label fx:id="lable_transferenciaCP_erro" layoutX="272.0" layoutY="290.0" prefHeight="20.0" prefWidth="150.0" textAlignment="CENTER" textFill="#e10a0a" />
+   </children>
+</AnchorPane>
